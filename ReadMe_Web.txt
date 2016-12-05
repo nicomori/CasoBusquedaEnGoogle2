@@ -1,8 +1,8 @@
 
-
+xs
 asdasd
 
-
+sxsx
 
 I decide to use the pattern design DSL because this pattern help to us for reuse all the methods for all the pages, this us the principal different with the page object page where you need to include all the methods in all the different pages.
 
